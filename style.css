@@ -1,0 +1,92 @@
+body{
+    margin: 0px;
+    background-image: url(pexels-ovan-57690.jpg);
+    background-position: center;
+    background-color: black, white;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 1500px;
+    border-color: transparent;
+    border-style: outset;
+}
+
+
+
+img{
+    width: 125px;
+    margin: 0px;
+}
+.box1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    display:flex;
+    align-items: center;
+    position: relative;
+    left: 130px;
+    bottom: 35px;
+}
+.box2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    display:flex;
+    align-items: center;
+    position: relative;
+    left: 200px;
+    bottom: 53px;
+}
+.box3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    display: flex;
+    align-items: center;
+    position: relative;
+    left: 280px;
+    bottom: 71px;
+}
+.box4{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    display: flex;
+    align-items: center;
+    position: relative;
+    left: 365px;
+    bottom: 89px;
+}
+.box5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    display: flex;
+    align-items: center;
+    position: relative;
+    left: 460px;
+    bottom: 108px;
+}
+.box6{
+    display: flex;
+    align-items: center;
+    position: relative;
+    top: 185px;
+    left: 455px;
+}
+.box7{
+    display: flex;
+    align-items: center;
+    position: relative;
+    top: 170px;
+    left: 300px;
+    width: 1000px;
+}
+.box8{
+    display: flex;
+    align-items: center;
+    position: relative;
+    top: 140px;
+    left: 455px;
+}
+.box9{
+  display: flex;
+  align-items: center;
+  position: relative;
+  top: 130px;
+  left: 580px;
+}
